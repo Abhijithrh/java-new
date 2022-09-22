@@ -1,5 +1,5 @@
 package access;
-class Pub{
+class Pub1{
 	public void ms()
 	{
 		System.out.println("hello");
@@ -9,7 +9,7 @@ class Pub{
 public class publi {
 
 	public static void main(String[] args) {
-		Pub pu=new Pub();
+		Pub1 pu=new Pub1();
 		pu.ms();
 
 	}

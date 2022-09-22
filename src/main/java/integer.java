@@ -16,7 +16,7 @@ public class integer {
 		// TODO Auto-generated method stub
 		print1 p=new print1();
 		p.show(1, 'c');
-		p.show('c', 2);
+		p.show(2, 'c');
 
 	}
 
