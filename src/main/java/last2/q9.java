@@ -10,12 +10,12 @@ import java.util.List;
 public class q9 {
       public static void main(String args[]){
         LinkedList<String> list = new LinkedList<String>();
-        list.add("Jai");
-        list.add("Mahesh");
-        list.add("Naren");
+        list.add("ramesh");
+        list.add("suresh");
+        list.add("Nani");
+        list.add("Vishnu");
         list.add("Vivek");
-        list.add("Vishal");
-        list.add("Hemant");
+        list.add("Hemanthe");
         System.out.println("Actual LinkedList:"+list);
         List<String> list1 = new ArrayList<String>(list);
            

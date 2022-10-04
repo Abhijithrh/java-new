@@ -8,11 +8,11 @@ public class q13 {
 	        LinkedList<String> list = new LinkedList<String>();
 	  
 	        
-	        list.add("Geek");
-	        list.add("for");
-	        list.add("Geeks");
-	        list.add("2020");
-	        list.add("2021");
+	        list.add("god");
+	        list.add("here");
+	        list.add("god");
+	        list.add("1999");
+	        list.add("2000");
 	  
 	        
 	        System.out.println("LinkedList:\t" + list);

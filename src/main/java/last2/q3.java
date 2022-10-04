@@ -7,11 +7,11 @@ public class q3 {
 
     public static void main(String[] args) {
         List<String> list_Strings = new ArrayList<String>();
-        list_Strings.add("Red");
-        list_Strings.add("Blue");
-        list_Strings.add("Green");
-        list_Strings.add("White");
-        list_Strings.add("Black");
+        list_Strings.add("pink");
+        list_Strings.add("yellow");
+        list_Strings.add("black");
+        list_Strings.add("red");
+        list_Strings.add("black");
 
  
 

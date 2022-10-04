@@ -10,11 +10,11 @@ public class q5 {
 
     public static void main(String[] args) {
         ArrayList<String> c1= new ArrayList<String>();
-        c1.add("Red");
-        c1.add("Green");
-        c1.add("Black");
-        c1.add("White");
-        c1.add("Pink");
+        c1.add("pink");
+        c1.add("white");
+        c1.add("black");
+        c1.add("blue");
+        c1.add("red");
 
  
 
